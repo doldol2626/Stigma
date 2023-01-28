@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2105650ed4d609443bec9986eb11f885, type: 3}
+  m_Name: Attack_Uppercut
+  m_EditorClassIdentifier: 
+  SkillType: Attack
+  SkillName: "\uC62C\uB824\uCE58\uAE30"
+  SkillInfo: "\uC804\uBC29\uC5D0 \uAC80\uC744 \uD718\uB458\uB7EC \uC0C1\uB300\uB97C
+    \uB0A0\uB824\uBC84\uB9BD\uB2C8\uB2E4."
+  SkillIcon: {fileID: 21300000, guid: 08c71e4e0565fe4469d1e0a593047156, type: 3}
+  Level: 1
+  Mp: 10
+  Cp: 0
+  CoolTime: 8
+  CurrentTime: 0
+  Attack: 1.1
+  Percentage: 0
+  Duration: 0
+  BuffRemain: 0
